@@ -1,2 +1,2 @@
-# Bootstrap-Sandbox
-Bootstrap sandbox for future reference
+# Bootstrap Sandbox
+A Repository for bootstrap references
